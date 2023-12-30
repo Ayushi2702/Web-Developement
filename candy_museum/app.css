@@ -64,11 +64,12 @@ h1{
 }
 
 .content{
-    margin-top:100px ;
+    margin-top:100px 
+    margin-bottom 100px;
 }
 
 
 .navbar.scrolled {
     background: rgb(206, 158, 206);
-    transition: background 50ms;
+    transition: background 500ms;
 }
